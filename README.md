@@ -71,6 +71,4 @@ Este projeto implementa um sistema simples de autenticação de usuários utiliz
 #
 
 ### **📋 Autor**
-
-Desenvolvedor do Projeto:
 * Alcides Antonio Lorenski Neto
