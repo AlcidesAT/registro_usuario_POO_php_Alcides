@@ -70,5 +70,7 @@ Este projeto implementa um sistema simples de autenticação de usuários utiliz
 
 #
 
-### **📋 Autor**
+### **📋 Autor e Informações Acadêmicas**
 * Alcides Antonio Lorenski Neto
+* Ciências da Computação 5a fase 
+* Campus UNOESC - São Miguel do Oeste 
