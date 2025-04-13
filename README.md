@@ -53,8 +53,8 @@ Este projeto implementa um sistema simples de autenticação de usuários utiliz
     <td><b>PHP 7.4+</b></td>
     <td><b>VS CODE</b></td>
     <td><b>Xampp</b></td>
-    <td><b>HTML5</b></td>
-    <td><b>CSS3</b></td>
+    <td><b>HTML</b></td>
+    <td><b>CSS</b></td>
   </tr>
 </table>
 
@@ -63,8 +63,8 @@ Este projeto implementa um sistema simples de autenticação de usuários utiliz
 ### **🔧 Como Executar Localmente**
 
 1. Clone o repositório:
-2. Configure um servidor web com PHP (XAMPP, WAMP, LAMP, etc)
-3. Coloque os arquivos na pasta do servidor web (htdocs, www, etc)
+2. Configure um servidor web com PHP
+3. Coloque os arquivos na pasta do servidor web
 4. Acesse a aplicação pelo navegador:
 5. Para testar, cadastre um novo usuário e faça login com as credenciais cadastradas
 
@@ -72,5 +72,5 @@ Este projeto implementa um sistema simples de autenticação de usuários utiliz
 
 ### **📋 Autor**
 
-Desenvolvedor(es) do Projeto:
+Desenvolvedor do Projeto:
 * Alcides Antonio Lorenski Neto
